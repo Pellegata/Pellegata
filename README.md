@@ -1,4 +1,4 @@
-# Olá, me chamo Guido Pellegata ! 
+# Olá, me chamo Guido Pellegata Junior! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 Atualmente estou estudando Front-End e quero alcançar o nivel de Full Stack.
